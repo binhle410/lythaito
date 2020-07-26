@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>1</id>
+  <lang></lang>
+  <title>Quang cao giua trang</title>
+  <description>&lt;img alt="" height="415" src="/uploads/banners/758b9bb473378969d026.jpg" width="1221" /&gt;</description>
+  <form>sequential</form>
+  <width>575</width>
+  <height>72</height>
+  <banners>
+    <banners_item>
+      <id>3</id>
+      <title>Quang cao giua trang</title>
+      <clid>0</clid>
+      <file_name>758b9bb473378969d026_1.jpg</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>1221</file_width>
+      <file_height>415</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+      <target>_blank</target>
+      <publ_time>1526058000</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>

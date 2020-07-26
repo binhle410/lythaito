@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cms>
+	<name><![CDATA[NukeViet CMS 4.4.00]]></name>
+	<version><![CDATA[4.4.00]]></version>
+	<date><![CDATA[Tue, 28 Apr 2020 17:00:00 GMT]]></date>
+	<message><![CDATA[Thế hệ mới - NukeViet 4.4.00 đáp ứng thay đổi của Google, cập nhật lên vui lòng đọc kỹ https://github.com/nukeviet/update/blob/to-4.4.00/README.md]]></message>
+	<link><![CDATA[https&#x3A;&#x002F;&#x002F;nukeviet.vn&#x002F;]]></link>
+	<updateable><![CDATA[4.1.02]]></updateable>
+	<updatepackage><![CDATA[12]]></updatepackage>
+</cms>

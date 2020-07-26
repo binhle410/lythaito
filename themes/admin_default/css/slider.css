@@ -1,0 +1,38 @@
+.fr{
+	float: right
+}
+.clear{
+	clear: both
+}
+.text-danger{
+	color:#CC0F0F; 
+	font-weight: bold;
+	padding-top: 4px
+}
+.alert-success {
+	background-color: #dff0d8;
+	border-color: #d6e9c6;
+	color: #3c763d;
+}
+.alert {
+	padding: 15px;
+	margin-bottom: 18px;
+	border: 1px solid transparent;
+	border-radius: 4px;
+}
+.alert i.fa-times{
+	float: right;
+	cursor:pointer
+}
+.has-error .control-label{
+	color: #CC0F0F;	
+}
+.has-error .form-control{
+	border-color: #CC0F0F;	
+}
+
+select:disabled{
+	background: #dedede
+}
+ 
+ 
